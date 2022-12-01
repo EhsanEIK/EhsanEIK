@@ -2,7 +2,7 @@
 ## Front-End Developer
 I am a Front-End Developer. I love to learn new technologies. As a tech lover I try to put my learning into reality. I also work on MERN Stack Development. I am a quick learner, highly passionate, hardworking person and have the ability to work under pressure.
 
-Skills: <br>
+<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
