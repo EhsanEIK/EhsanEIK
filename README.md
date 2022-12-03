@@ -2,7 +2,16 @@
 ## Front-End Developer
 I am a Front-End Developer. I love to learn new technologies. As a tech lover I try to put my learning into reality. I also work on MERN Stack Development. I am a quick learner, highly passionate, hardworking person and have the ability to work under pressure.
 
-Skills: <br>
+
+- 🔭 I’m currently working on self project 
+- 🌱 I’m currently learning more about MERN 
+- 💬 Ask me about web development with React.JS 
+- 📫 How to reach me: ehsankhan1997.ek@gmail.com 
+- ⚡ Fun fact: I love to compose and listen music, I love to play guitar. 
+
+
+## Skills
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -15,15 +24,27 @@ Skills: <br>
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+</div>
 
-- 🔭 I’m currently working on self project 
-- 🌱 I’m currently learning more about MERN 
-- 💬 Ask me about web development with React.JS 
-- 📫 How to reach me: ehsankhan1997.ek@gmail.com 
-- ⚡ Fun fact: I love to compose and listen music, I love to play guitar. 
+<br/>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/EhsanEIK" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ehsanulislamkhan/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/ehsankhanEIK/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Ehsan_EIK" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/EhsanEIK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ehsanulislamkhan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/ehsankhanEIK/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/Ehsan_EIK)  
+<br/> 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
