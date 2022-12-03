@@ -10,8 +10,9 @@ I am a Front-End Developer. I love to learn new technologies. As a tech lover I 
 - ⚡ Fun fact: I love to compose and listen music, I love to play guitar. 
 
 
-## Skills <br/>
+## Skills
 <div align="center">
+  <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
