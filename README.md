@@ -9,6 +9,8 @@ I am a Front-End Developer. I love to learn new technologies. As a tech lover I 
 - 📫 How to reach me: ehsankhan1997.ek@gmail.com 
 - ⚡ Fun fact: I love to compose and listen music, I love to play guitar. 
 
+<br/>
+<br/>
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,6 +26,7 @@ I am a Front-End Developer. I love to learn new technologies. As a tech lover I 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
 
+<br/>
 <br/>
 
 ## Connect with me  
