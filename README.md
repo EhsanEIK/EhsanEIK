@@ -18,6 +18,7 @@ I am a Front-End Developer. I love to learn new technologies. As a tech lover I 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-navy?style=flat-square&logo=express&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb&logoColor=green)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=orange)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
