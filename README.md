@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Md. Ehsanul Islam Khan
 ## Front-End Developer || MERN Stack Developer
-I am a Front-End & MERN Stack Developer. I love to learn new technologies. As a tech lover I try to put my learning into reality. I also work on MERN Stack Development. I am a quick learner, highly passionate, hardworking person and have the ability to work under pressure.
+I am a Front-End Developer. I love to learn new technologies. As a tech lover I try to put my learning into reality. I also work on MERN Stack Development. I am a quick learner, highly passionate, hardworking person and have the ability to work under pressure.
 
 
 - 🔭 I’m currently working on self project 
