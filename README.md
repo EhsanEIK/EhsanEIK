@@ -8,7 +8,7 @@ I am a Front-End Developer. I love to learn new technologies. As a tech lover I 
 - 🔭 I’m currently working on self project 
 - 🌱 I’m currently learning more about MERN 
 - 💬 Ask me about web development with React.JS 
-- 📫 How to reach me: ehsankhan1997.ek@gmail.com 
+- 📫 How to reach me: ehsankhan9726@gmail.com | +8801862766744
 - ⚡ Fun fact: I love to compose and listen music, I love to play guitar. 
 
 <br/>
