@@ -1,8 +1,8 @@
-![Front-End developer](https://pbs.twimg.com/profile_banners/1581169960608763905/1670485349/1500x500)
+![Front-End developer](https://pbs.twimg.com/profile_banners/1581169960608763905/1670573677/1500x500)
 
 # Hi 👋, I'm Md. Ehsanul Islam Khan
-## Front-End Developer || MERN Stack Developer
-I am a Front-End Developer. I love to learn new technologies. As a tech lover I try to put my learning into reality. I also work on MERN Stack Development. I am a quick learner, highly passionate, hardworking person and have the ability to work under pressure.
+## MERN Stack Developer
+I am a MERN Stack Developer. I love to learn new technologies. As a tech lover I try to put my learning into reality. I also work on Front-End Development. I am a quick learner, highly passionate, hardworking person and have the ability to work under pressure.
 
 
 - 🔭 I’m currently working on self project 
